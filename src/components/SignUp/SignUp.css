@@ -1,0 +1,10 @@
+.alreadyHaveAccount{
+    margin-left: 28%;
+    margin-top: 30px;
+}
+.signUpError{
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+    font-size: 20px;
+}
