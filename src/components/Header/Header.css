@@ -20,4 +20,9 @@ nav.header a:hover{
     color: #FFFFFF;
     margin-left: 30px;
     font-size: 25px;
+    
+}
+.btn-1{
+    background-color: aliceblue;
+    margin-left: 40px;
 }
